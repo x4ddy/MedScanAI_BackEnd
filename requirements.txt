@@ -1,8 +1,7 @@
 flask
 flask-cors
-opencv-python
-easyocr
-pandas
-rapidfuzz
-numpy
 gunicorn
+numpy
+pandas
+opencv-python-headless
+easyocr

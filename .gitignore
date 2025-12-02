@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+venv/
+env/
+
+# Images & temp
+*.png
+*.jpg
+*.jpeg
+processed.png
+upload_tmp.jpg
+
+# OS crap
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
